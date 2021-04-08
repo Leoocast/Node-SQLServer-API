@@ -1,5 +1,7 @@
+--DECLARE @IdCliente INT = 1
+
 SELECT 
-    * 
+    *
 FROM 
     Clientes AS CL 
 INNER JOIN 
